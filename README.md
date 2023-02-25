@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
+  <h1 align="center">
+    Hi! 👋, Welcome to my profile
+  </h1>
+</div>
 
-<!--
-**JuacoR/JuacoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>I'm Joaquin Ruatta. Frontent Developer, passionate about games and technology</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me :
+- :house_with_garden:  Buenos Aires, Argentina
+- 💻  React Developer at Bleex
+- 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
