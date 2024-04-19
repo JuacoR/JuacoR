@@ -9,6 +9,5 @@
 
 ### 👨‍💻 About Me :
 - :house_with_garden:  Buenos Aires, Argentina
-- 💻  React Developer at Padbol 
-- 💻  Developer at @Bleex
+- 💻  Developer at Padbol 
 
