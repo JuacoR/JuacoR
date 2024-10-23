@@ -9,5 +9,5 @@
 
 ### 👨‍💻 About Me :
 - :house_with_garden:  Buenos Aires, Argentina
-- 💻  Developer at <a href="https://wollenlabs.com/">WollenLabs<a/> 
+- 💻  Software Engineer at  <a href="https://wollenlabs.com/" target="_blank">WollenLabs<a/> 
 
