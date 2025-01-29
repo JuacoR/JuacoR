@@ -5,7 +5,7 @@
 </div>
 
 
-<h2>I'm Joaquin Ruatta. Frontend Developer</h2>
+<h2>I'm Joaquin Ruatta.
 
 ### 👨‍💻 About Me :
 - :house_with_garden:  Buenos Aires, Argentina
